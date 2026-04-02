@@ -68,7 +68,7 @@ export default function LandingPage() {
           handle: "@afacere",
           testimonial: "Un site web excelent, mi-a crescut vânzările imediat.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=1",
           imageAlt: "minimalist desk workspace laptop",
         },
         {
@@ -76,7 +76,7 @@ export default function LandingPage() {
           handle: "@salon",
           testimonial: "Profesionalism și rapiditate în realizarea site-ului.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=1",
           imageAlt: "portrait professional developer",
         },
         {
@@ -84,7 +84,7 @@ export default function LandingPage() {
           handle: "@service",
           testimonial: "Design modern care atrage clienți noi zilnic.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=1",
           imageAlt: "website design laptop mockup",
         },
         {
@@ -92,7 +92,7 @@ export default function LandingPage() {
           handle: "@brand",
           testimonial: "Colaborare ușoară și un site care arată impecabil.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=1",
           imageAlt: "salon website design mockup",
         },
         {
@@ -100,7 +100,7 @@ export default function LandingPage() {
           handle: "@magazin",
           testimonial: "Rezultate peste așteptări, recomand cu drag!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",
+          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=1",
           imageAlt: "modern cafe website mockup",
         },
       ]}
@@ -114,7 +114,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=2"
       imageAlt="Designer web lucrând la un proiect profesional"
       mediaAnimation="blur-reveal"
       avatars={[
@@ -175,7 +175,7 @@ export default function LandingPage() {
           description: "Site-uri elegante care spun povestea afacerii tale.",
           bentoComponent: "reveal-icon",
           icon: Layout,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=3",
           imageAlt: "minimalist desk workspace laptop",
         },
         {
@@ -183,7 +183,7 @@ export default function LandingPage() {
           description: "Pagini optimizate pentru conversii ridicate.",
           bentoComponent: "reveal-icon",
           icon: MousePointer,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=2",
           imageAlt: "portrait professional developer",
         },
         {
@@ -191,7 +191,7 @@ export default function LandingPage() {
           description: "Actualizarea site-urilor vechi pentru standardele actuale.",
           bentoComponent: "reveal-icon",
           icon: RefreshCw,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=2",
           imageAlt: "website design laptop mockup",
         },
         {
@@ -199,7 +199,7 @@ export default function LandingPage() {
           description: "Site-uri care arată perfect pe orice dispozitiv.",
           bentoComponent: "reveal-icon",
           icon: Smartphone,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=2",
           imageAlt: "salon website design mockup",
         },
         {
@@ -207,7 +207,7 @@ export default function LandingPage() {
           description: "Conectează-te ușor cu clienții tăi.",
           bentoComponent: "reveal-icon",
           icon: MessageCircle,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",
+          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=2",
           imageAlt: "modern cafe website mockup",
         },
         {
@@ -215,7 +215,7 @@ export default function LandingPage() {
           description: "Configurare SEO de bază și întreținere site.",
           bentoComponent: "reveal-icon",
           icon: Search,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=4",
           imageAlt: "minimalist desk workspace laptop",
         },
       ]}
@@ -234,7 +234,7 @@ export default function LandingPage() {
           description: "Înțelegem obiectivele tale.",
           bentoComponent: "reveal-icon",
           icon: MessageSquare,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=3",
           imageAlt: "portrait professional developer",
         },
         {
@@ -242,7 +242,7 @@ export default function LandingPage() {
           description: "Primim o ofertă clară și transparentă.",
           bentoComponent: "reveal-icon",
           icon: FileText,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=3",
           imageAlt: "website design laptop mockup",
         },
         {
@@ -250,7 +250,7 @@ export default function LandingPage() {
           description: "Construiesc site-ul visat.",
           bentoComponent: "reveal-icon",
           icon: Code,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=3",
           imageAlt: "salon website design mockup",
         },
         {
@@ -258,7 +258,7 @@ export default function LandingPage() {
           description: "Ajustăm totul pentru perfecțiune.",
           bentoComponent: "reveal-icon",
           icon: Edit,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",
+          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=3",
           imageAlt: "modern cafe website mockup",
         },
         {
@@ -266,7 +266,7 @@ export default function LandingPage() {
           description: "Site-ul tău este live pe web.",
           bentoComponent: "reveal-icon",
           icon: Rocket,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=5",
           imageAlt: "minimalist desk workspace laptop",
         },
       ]}
@@ -289,7 +289,7 @@ export default function LandingPage() {
           price: "Modern",
           rating: 5,
           reviewCount: "12",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=4",
         },
         {
           id: "2",
@@ -298,7 +298,7 @@ export default function LandingPage() {
           price: "Elegant",
           rating: 5,
           reviewCount: "8",
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=4",
         },
         {
           id: "3",
@@ -307,7 +307,7 @@ export default function LandingPage() {
           price: "Minimal",
           rating: 5,
           reviewCount: "15",
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",
+          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=4",
         },
       ]}
       title="Proiecte Recente"
