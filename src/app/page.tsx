@@ -31,25 +31,15 @@ export default function LandingPage() {
       <NavbarStyleCentered
       navItems={[
         {
-          name: "Servicii",
-          id: "#servicii",
-        },
+          name: "Servicii",          id: "#servicii"},
         {
-          name: "Proces",
-          id: "#proces",
-        },
+          name: "Proces",          id: "#proces"},
         {
-          name: "Portofoliu",
-          id: "#portofoliu",
-        },
+          name: "Portofoliu",          id: "#portofoliu"},
         {
-          name: "Prețuri",
-          id: "#preturi",
-        },
+          name: "Prețuri",          id: "#preturi"},
         {
-          name: "Contact",
-          id: "#contact",
-        },
+          name: "Contact",          id: "#contact"},
       ]}
       brandName="Web Designer RO"
     />
@@ -58,108 +48,58 @@ export default function LandingPage() {
   <div id="hero" data-section="hero">
       <HeroSplitTestimonial
       background={{
-        variant: "gradient-bars",
-      }}
+        variant: "gradient-bars"}}
       title="Website-uri Moderne pentru Afacerea Ta"
       description="Ajut afacerile locale și brandurile personale să construiască încredere, să arate profesional online și să atragă mai mulți clienți prin site-uri web elegante și responsive."
       testimonials={[
         {
-          name: "Ion Popescu",
-          handle: "@afacere",
-          testimonial: "Un site web excelent, mi-a crescut vânzările imediat.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=1",
-          imageAlt: "minimalist desk workspace laptop",
-        },
+          name: "Ion Popescu",          handle: "@afacere",          testimonial: "Un site web excelent, mi-a crescut vânzările imediat.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",          imageAlt: "minimalist desk workspace laptop"},
         {
-          name: "Maria Ionescu",
-          handle: "@salon",
-          testimonial: "Profesionalism și rapiditate în realizarea site-ului.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=1",
-          imageAlt: "portrait professional developer",
-        },
+          name: "Maria Ionescu",          handle: "@salon",          testimonial: "Profesionalism și rapiditate în realizarea site-ului.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",          imageAlt: "portrait professional developer"},
         {
-          name: "Andrei Dumitru",
-          handle: "@service",
-          testimonial: "Design modern care atrage clienți noi zilnic.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=1",
-          imageAlt: "website design laptop mockup",
-        },
+          name: "Andrei Dumitru",          handle: "@service",          testimonial: "Design modern care atrage clienți noi zilnic.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",          imageAlt: "website design laptop mockup"},
         {
-          name: "Elena Vasile",
-          handle: "@brand",
-          testimonial: "Colaborare ușoară și un site care arată impecabil.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=1",
-          imageAlt: "salon website design mockup",
-        },
+          name: "Elena Vasile",          handle: "@brand",          testimonial: "Colaborare ușoară și un site care arată impecabil.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",          imageAlt: "salon website design mockup"},
         {
-          name: "Mihai Radu",
-          handle: "@magazin",
-          testimonial: "Rezultate peste așteptări, recomand cu drag!",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=1",
-          imageAlt: "modern cafe website mockup",
-        },
+          name: "Mihai Radu",          handle: "@magazin",          testimonial: "Rezultate peste așteptări, recomand cu drag!",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",          imageAlt: "modern cafe website mockup"},
       ]}
       buttons={[
         {
-          text: "Solicită o Ofertă",
-          href: "#contact",
-        },
+          text: "Solicită o Ofertă",          href: "#contact"},
         {
-          text: "Contactează-mă",
-          href: "#contact",
-        },
+          text: "Contactează-mă",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=2"
+      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg"
       imageAlt="Designer web lucrând la un proiect profesional"
       mediaAnimation="blur-reveal"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",
-          alt: "Client 1",
-        },
+          src: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg",          alt: "Client 1"},
         {
-          src: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",
-          alt: "Client 2",
-        },
+          src: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",          alt: "Client 2"},
         {
-          src: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",
-          alt: "Client 3",
-        },
+          src: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg",          alt: "Client 3"},
         {
-          src: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",
-          alt: "Client 4",
-        },
+          src: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg",          alt: "Client 4"},
         {
-          src: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",
-          alt: "Client 5",
-        },
+          src: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg",          alt: "Client 5"},
       ]}
       marqueeItems={[
         {
-          type: "text",
-          text: "Rapiditate",
-        },
+          type: "text",          text: "Rapiditate"},
         {
-          type: "text",
-          text: "Design Modern",
-        },
+          type: "text",          text: "Design Modern"},
         {
-          type: "text",
-          text: "SEO Friendly",
-        },
+          type: "text",          text: "SEO Friendly"},
         {
-          type: "text",
-          text: "Mobile First",
-        },
+          type: "text",          text: "Mobile First"},
         {
-          type: "text",
-          text: "Conversii Ridicate",
-        },
+          type: "text",          text: "Conversii Ridicate"},
       ]}
     />
   </div>
@@ -171,52 +111,22 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Site-uri de Prezentare",
-          description: "Site-uri elegante care spun povestea afacerii tale.",
-          bentoComponent: "reveal-icon",
-          icon: Layout,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=3",
-          imageAlt: "minimalist desk workspace laptop",
+          title: "Site-uri de Prezentare",          description: "Site-uri elegante care spun povestea afacerii tale.",          bentoComponent: "reveal-icon",          icon: Layout,
         },
         {
-          title: "Landing Pages",
-          description: "Pagini optimizate pentru conversii ridicate.",
-          bentoComponent: "reveal-icon",
-          icon: MousePointer,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=2",
-          imageAlt: "portrait professional developer",
+          title: "Landing Pages",          description: "Pagini optimizate pentru conversii ridicate.",          bentoComponent: "reveal-icon",          icon: MousePointer,
         },
         {
-          title: "Redesign Website",
-          description: "Actualizarea site-urilor vechi pentru standardele actuale.",
-          bentoComponent: "reveal-icon",
-          icon: RefreshCw,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=2",
-          imageAlt: "website design laptop mockup",
+          title: "Redesign Website",          description: "Actualizarea site-urilor vechi pentru standardele actuale.",          bentoComponent: "reveal-icon",          icon: RefreshCw,
         },
         {
-          title: "Design Mobile-First",
-          description: "Site-uri care arată perfect pe orice dispozitiv.",
-          bentoComponent: "reveal-icon",
-          icon: Smartphone,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=2",
-          imageAlt: "salon website design mockup",
+          title: "Design Mobile-First",          description: "Site-uri care arată perfect pe orice dispozitiv.",          bentoComponent: "reveal-icon",          icon: Smartphone,
         },
         {
-          title: "Integrare WhatsApp/Contact",
-          description: "Conectează-te ușor cu clienții tăi.",
-          bentoComponent: "reveal-icon",
-          icon: MessageCircle,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=2",
-          imageAlt: "modern cafe website mockup",
+          title: "Integrare WhatsApp/Contact",          description: "Conectează-te ușor cu clienții tăi.",          bentoComponent: "reveal-icon",          icon: MessageCircle,
         },
         {
-          title: "Mentenanță SEO",
-          description: "Configurare SEO de bază și întreținere site.",
-          bentoComponent: "reveal-icon",
-          icon: Search,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=4",
-          imageAlt: "minimalist desk workspace laptop",
+          title: "Mentenanță SEO",          description: "Configurare SEO de bază și întreținere site.",          bentoComponent: "reveal-icon",          icon: Search,
         },
       ]}
       title="Servicii Profesionale de Design Web"
@@ -230,44 +140,19 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "Discuție",
-          description: "Înțelegem obiectivele tale.",
-          bentoComponent: "reveal-icon",
-          icon: MessageSquare,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg?_wi=3",
-          imageAlt: "portrait professional developer",
+          title: "Discuție",          description: "Înțelegem obiectivele tale.",          bentoComponent: "reveal-icon",          icon: MessageSquare,
         },
         {
-          title: "Ofertă",
-          description: "Primim o ofertă clară și transparentă.",
-          bentoComponent: "reveal-icon",
-          icon: FileText,
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=3",
-          imageAlt: "website design laptop mockup",
+          title: "Ofertă",          description: "Primim o ofertă clară și transparentă.",          bentoComponent: "reveal-icon",          icon: FileText,
         },
         {
-          title: "Design & Dezvoltare",
-          description: "Construiesc site-ul visat.",
-          bentoComponent: "reveal-icon",
-          icon: Code,
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=3",
-          imageAlt: "salon website design mockup",
+          title: "Design & Dezvoltare",          description: "Construiesc site-ul visat.",          bentoComponent: "reveal-icon",          icon: Code,
         },
         {
-          title: "Revizii",
-          description: "Ajustăm totul pentru perfecțiune.",
-          bentoComponent: "reveal-icon",
-          icon: Edit,
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=3",
-          imageAlt: "modern cafe website mockup",
+          title: "Revizii",          description: "Ajustăm totul pentru perfecțiune.",          bentoComponent: "reveal-icon",          icon: Edit,
         },
         {
-          title: "Lansare",
-          description: "Site-ul tău este live pe web.",
-          bentoComponent: "reveal-icon",
-          icon: Rocket,
-          imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=5",
-          imageAlt: "minimalist desk workspace laptop",
+          title: "Lansare",          description: "Site-ul tău este live pe web.",          bentoComponent: "reveal-icon",          icon: Rocket,
         },
       ]}
       title="Proces Simplificat"
@@ -283,32 +168,14 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "1",
-          brand: "Business Local",
-          name: "Site Prezentare Firmă",
-          price: "Modern",
-          rating: 5,
-          reviewCount: "12",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=4",
-        },
+          id: "1",          brand: "Business Local",          name: "Site Prezentare Firmă",          price: "Modern",          rating: 5,
+          reviewCount: "12",          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg"},
         {
-          id: "2",
-          brand: "Beauty Salon",
-          name: "Platformă Rezervări",
-          price: "Elegant",
-          rating: 5,
-          reviewCount: "8",
-          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=4",
-        },
+          id: "2",          brand: "Beauty Salon",          name: "Platformă Rezervări",          price: "Elegant",          rating: 5,
+          reviewCount: "8",          imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg"},
         {
-          id: "3",
-          brand: "Cafenea",
-          name: "Site Restaurant",
-          price: "Minimal",
-          rating: 5,
-          reviewCount: "15",
-          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=4",
-        },
+          id: "3",          brand: "Cafenea",          name: "Site Restaurant",          price: "Minimal",          rating: 5,
+          reviewCount: "15",          imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg"},
       ]}
       title="Proiecte Recente"
       description="Iată câteva exemple de site-uri web construite pentru clienții mei."
@@ -322,60 +189,27 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         {
-          id: "basic",
-          badge: "Start",
-          price: "€300",
-          subtitle: "Ideal pentru startup-uri",
-          features: [
-            "Design modern",
-            "Responsive",
-            "1 pagină",
-            "SEO de bază",
-            "Formular contact",
-          ],
+          id: "basic",          badge: "Start",          price: "€300",          subtitle: "Ideal pentru startup-uri",          features: [
+            "Design modern",            "Responsive",            "1 pagină",            "SEO de bază",            "Formular contact"],
           buttons: [
             {
-              text: "Alege Basic",
-              href: "#contact",
-            },
+              text: "Alege Basic",              href: "#contact"},
           ],
         },
         {
-          id: "standard",
-          badge: "Popular",
-          price: "€600",
-          subtitle: "Cea mai bună alegere",
-          features: [
-            "Până la 5 pagini",
-            "Design personalizat",
-            "Integrare social media",
-            "Mentenanță 1 lună",
-            "Optimizare viteză",
-          ],
+          id: "standard",          badge: "Popular",          price: "€600",          subtitle: "Cea mai bună alegere",          features: [
+            "Până la 5 pagini",            "Design personalizat",            "Integrare social media",            "Mentenanță 1 lună",            "Optimizare viteză"],
           buttons: [
             {
-              text: "Alege Standard",
-              href: "#contact",
-            },
+              text: "Alege Standard",              href: "#contact"},
           ],
         },
         {
-          id: "premium",
-          badge: "Pro",
-          price: "€1000+",
-          subtitle: "Pentru companii",
-          features: [
-            "Site complex",
-            "CMS avansat",
-            "Mentenanță 3 luni",
-            "SEO avansat",
-            "Training administrare",
-          ],
+          id: "premium",          badge: "Pro",          price: "€1000+",          subtitle: "Pentru companii",          features: [
+            "Site complex",            "CMS avansat",            "Mentenanță 3 luni",            "SEO avansat",            "Training administrare"],
           buttons: [
             {
-              text: "Alege Premium",
-              href: "#contact",
-            },
+              text: "Alege Premium",              href: "#contact"},
           ],
         },
       ]}
@@ -389,24 +223,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       heading={[
         {
-          type: "text",
-          content: "Despre Mine",
-        },
+          type: "text",          content: "Despre Mine"},
         {
-          type: "image",
-          src: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",
-          alt: "Web designer la lucru",
-        },
+          type: "image",          src: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg",          alt: "Web designer la lucru"},
         {
-          type: "text",
-          content: "Sunt un creator de site-uri pasionat de tehnologie și design curat. Scopul meu este să ajut antreprenorii români să aibă o prezență digitală care nu doar arată bine, ci aduce clienți noi.",
-        },
+          type: "text",          content: "Sunt un creator de site-uri pasionat de tehnologie și design curat. Scopul meu este să ajut antreprenorii români să aibă o prezență digitală care nu doar arată bine, ci aduce clienți noi."},
       ]}
       buttons={[
         {
-          text: "Contactează-mă",
-          href: "#contact",
-        },
+          text: "Contactează-mă",          href: "#contact"},
       ]}
     />
   </div>
@@ -417,27 +242,16 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "1",
-          title: "Cât durează un site?",
-          content: "În medie, un site de prezentare durează între 1 și 3 săptămâni.",
-        },
+          id: "1",          title: "Cât durează un site?",          content: "În medie, un site de prezentare durează între 1 și 3 săptămâni."},
         {
-          id: "2",
-          title: "Cât costă întreținerea?",
-          content: "Mentenanța depinde de nevoile tale, oferim pachete lunare accesibile.",
-        },
+          id: "2",          title: "Cât costă întreținerea?",          content: "Mentenanța depinde de nevoile tale, oferim pachete lunare accesibile."},
         {
-          id: "3",
-          title: "Oferi suport după lansare?",
-          content: "Da, sunt alături de clienții mei și după lansarea site-ului pentru orice modificare.",
-        },
+          id: "3",          title: "Oferi suport după lansare?",          content: "Da, sunt alături de clienții mei și după lansarea site-ului pentru orice modificare."},
       ]}
       ctaTitle="Să Lucrăm Împreună!"
       ctaDescription="Ești gata să îți transformi afacerea online? Trimite-mi un mesaj pentru o discuție gratuită."
       ctaButton={{
-        text: "Trimite Mesaj",
-        href: "mailto:designer@email.ro",
-      }}
+        text: "Trimite Mesaj",        href: "mailto:designer@email.ro"}}
       ctaIcon={Mail}
     />
   </div>
@@ -446,37 +260,23 @@ export default function LandingPage() {
       <FooterBaseReveal
       columns={[
         {
-          title: "Navigare",
-          items: [
+          title: "Navigare",          items: [
             {
-              label: "Servicii",
-              href: "#servicii",
-            },
+              label: "Servicii",              href: "#servicii"},
             {
-              label: "Portofoliu",
-              href: "#portofoliu",
-            },
+              label: "Portofoliu",              href: "#portofoliu"},
             {
-              label: "Prețuri",
-              href: "#preturi",
-            },
+              label: "Prețuri",              href: "#preturi"},
           ],
         },
         {
-          title: "Contact",
-          items: [
+          title: "Contact",          items: [
             {
-              label: "WhatsApp",
-              href: "https://wa.me/407",
-            },
+              label: "WhatsApp",              href: "https://wa.me/407"},
             {
-              label: "Email",
-              href: "mailto:designer@email.ro",
-            },
+              label: "Email",              href: "mailto:designer@email.ro"},
             {
-              label: "Telefon",
-              href: "tel:+407",
-            },
+              label: "Telefon",              href: "tel:+407"},
           ],
         },
       ]}
