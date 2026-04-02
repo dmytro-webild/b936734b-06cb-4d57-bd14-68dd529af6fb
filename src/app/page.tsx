@@ -46,17 +46,17 @@ export default function LandingPage() {
       title="Website-uri Moderne pentru Afacerea Ta"
       description="Ajut afacerile locale și brandurile personale să construiască încredere, să arate profesional online și să atragă mai mulți clienți prin site-uri web elegante și responsive."
       testimonials={[
-        { name: "Ion Popescu", handle: "@afacere", testimonial: "Un site web excelent, mi-a crescut vânzările imediat.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg", imageAlt: "minimalist desk workspace laptop" },
+        { name: "Ion Popescu", handle: "@afacere", testimonial: "Un site web excelent, mi-a crescut vânzările imediat.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=1", imageAlt: "minimalist desk workspace laptop" },
         { name: "Maria Ionescu", handle: "@salon", testimonial: "Profesionalism și rapiditate în realizarea site-ului.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-man-casual-shirt-working-computer-office_93675-134958.jpg", imageAlt: "portrait professional developer" },
-        { name: "Andrei Dumitru", handle: "@service", testimonial: "Design modern care atrage clienți noi zilnic.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg", imageAlt: "website design laptop mockup" },
-        { name: "Elena Vasile", handle: "@brand", testimonial: "Colaborare ușoară și un site care arată impecabil.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg", imageAlt: "salon website design mockup" },
-        { name: "Mihai Radu", handle: "@magazin", testimonial: "Rezultate peste așteptări, recomand cu drag!", rating: 5, imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg", imageAlt: "modern cafe website mockup" },
+        { name: "Andrei Dumitru", handle: "@service", testimonial: "Design modern care atrage clienți noi zilnic.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=1", imageAlt: "website design laptop mockup" },
+        { name: "Elena Vasile", handle: "@brand", testimonial: "Colaborare ușoară și un site care arată impecabil.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=1", imageAlt: "salon website design mockup" },
+        { name: "Mihai Radu", handle: "@magazin", testimonial: "Rezultate peste așteptări, recomand cu drag!", rating: 5, imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=1", imageAlt: "modern cafe website mockup" },
       ]}
       buttons={[
         { text: "Solicită o Ofertă", href: "#contact" },
         { text: "Contactează-mă", href: "#contact" },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/office-desk-still-life_23-2148111393.jpg?_wi=2"
       imageAlt="Designer web lucrând la un proiect profesional"
       mediaAnimation="blur-reveal"
       avatars={[
@@ -118,9 +118,9 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "1", brand: "Business Local", name: "Site Prezentare Firmă", price: "Modern", rating: 5, reviewCount: "12", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg" },
-        { id: "2", brand: "Beauty Salon", name: "Platformă Rezervări", price: "Elegant", rating: 5, reviewCount: "8", imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg" },
-        { id: "3", brand: "Cafenea", name: "Site Restaurant", price: "Minimal", rating: 5, reviewCount: "15", imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg" },
+        { id: "1", brand: "Business Local", name: "Site Prezentare Firmă", price: "Modern", rating: 5, reviewCount: "12", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-man-ordering-groceries-online_23-2149722290.jpg?_wi=2" },
+        { id: "2", brand: "Beauty Salon", name: "Platformă Rezervări", price: "Elegant", rating: 5, reviewCount: "8", imageSrc: "http://img.b2bpic.net/free-vector/nature-cosmetics-landing-page_23-2148627452.jpg?_wi=2" },
+        { id: "3", brand: "Cafenea", name: "Site Restaurant", price: "Minimal", rating: 5, reviewCount: "15", imageSrc: "http://img.b2bpic.net/free-psd/monochrome-restaurant-landing-page-template_23-2149439193.jpg?_wi=2" },
       ]}
       title="Proiecte Recente"
       description="Iată câteva exemple de site-uri web construite pentru clienții mei."
